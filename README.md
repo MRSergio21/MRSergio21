@@ -8,7 +8,7 @@
 <h3>Manejo de idiomas</h3>
 
     - Español 100% 
-    - Inglés 70% 🇺🇸
+    - Inglés 70%
     - Francés 15%
 
 <h3>Hobbies</h3>
