@@ -2,7 +2,7 @@
 <h3 align="center">Programador backend, gestión de base de datos y conocimiento de DevOps</h3>
 
 <br/>
-<p>Soy un chico con 20 años de edad, interesado en la tecnología y amante de los video juegos, me considero un chico proactivo y que se aburre si no hace algo para mejora de sus conocimientos en la tecnología o de igual manera  estar activo de manera física.</p>
+<p>Soy un chico con 21 años de edad, interesado en la tecnología y amante de los video juegos, me considero un chico proactivo y que se aburre si no hace algo para mejora de sus conocimientos en la tecnología o de igual manera  estar activo de manera física.</p>
 <br/>
 
 <h3>Manejo de idiomas</h3>
