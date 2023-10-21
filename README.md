@@ -2,17 +2,26 @@
 <h3 align="center">Programador backend, gestión de base de datos y dispuesto aprender de todo....</h3>
 
 <br/>
+<<<<<<< HEAD
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Soy un chico con 21 años de edad, nacionalidad Salvadoreña amante a la tecnología y de los video juegos, me considero un chico proactivo siempre en constante mejora de sus conocimientos en la tecnología.
 </p>
+=======
+<p>Soy un chico con 21 años de edad, interesado en la tecnología y amante de los video juegos, me considero un chico proactivo y que se aburre si no hace algo para mejora de sus conocimientos en la tecnología o de igual manera  estar activo de manera física.</p>
+<br/>
+>>>>>>> 1cd33554a4a911643f681ab4ebd9b169a9a33983
 
 <h3>Manejo de idiomas</h3>
 
     - Español 100% 
     - Inglés 70%
+<<<<<<< HEAD
     - Francés 20%
+=======
+    - Francés 15%
+>>>>>>> 1cd33554a4a911643f681ab4ebd9b169a9a33983
 
 <h3>Hobbies</h3>
 
