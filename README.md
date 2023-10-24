@@ -26,9 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mrsergio21&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
 <br >
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsergio21&theme=dracula&hide_langs_below=1" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsergio21&theme=dracula&hide_langs_below=1" />
 
 <br >
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrsergio21" alt="mrsergio21" /></a>
