@@ -106,7 +106,7 @@ I am a software engineering student and a self-taught fanatic passionate about p
     <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRSergio21&show_icons=true&layout=compact&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />
   </picture>
   <picture>
-    <img href="https://github.com/ryo-ma/github-profile-trophy" /><img src="https://github-profile-trophy.vercel.app/?username=mrsergio21" alt="mrsergio21" />
+    <a href="https://github.com/ryo-ma/github-profile-trophy" /><a src="https://github-profile-trophy.vercel.app/?username=mrsergio21" alt="mrsergio21" />
   </picture>  
 </div>
 
