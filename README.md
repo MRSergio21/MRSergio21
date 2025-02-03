@@ -113,7 +113,7 @@ I am a software engineering student and a self-taught fanatic passionate about p
 ### 🌐 Connect with Me
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/muhammad-talha-ramzan" target="_blank">
+    <a href="" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://instagram.com/sergio_mr2105" target="_blank">
