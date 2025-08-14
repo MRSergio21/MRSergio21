@@ -113,7 +113,7 @@ I am a software engineering student and a self-taught fanatic passionate about p
 ### 🌐 Connect with Me
 
 <div align="center">
-    <a href="" target="_blank">
+    <a href="www.linkedin.com/in/sergio-mayén-232b7b332" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://instagram.com/sergio_mr2105" target="_blank">
